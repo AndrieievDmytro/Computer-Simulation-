@@ -1,0 +1,6 @@
+1,0,1,1,0
+
+1st number - Any dead cell with exactly num[0] live neighbors becomes a live cell
+2nd number - Any live cell with fewer than num[1] live neighbors dies
+3rd and 4th numbers - Any live cell with num[2] or num[3] live neighbors lives
+5th number - Any live cell with more than num[4] live neighbors dies
